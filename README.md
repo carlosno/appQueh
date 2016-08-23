@@ -1,4 +1,4 @@
-# appQueh
+# Queh
 
 Projeto de Software apresentado como projeto integrado para obtenção de Notas nas disciplinas de Análise de Sistemas II, Sistemas de Informação II e Banco de Dados II do 2º semestre de 2016 do curso de Sistemas de Informação da Pontifícia Universidade Católia de Campinas
 
