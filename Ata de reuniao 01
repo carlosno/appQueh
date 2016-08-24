@@ -1,0 +1,45 @@
+Ata de Reunião 01
+=================
+
+Informações iniciais
+--------------------
+Data da reunião - `__/__/____`  
+Local da reunião - `___________________`  
+Inicio marcado da reunião - `__:__`  
+Inicio real da reunião - `__:__`  
+Término previsto da reunião - `__:__`  
+Término real da reunião - `__:__`
+
+Participantes
+-------------
+Requiridos | Presentes
+-----------|----------
+[______________________](mailto:email@email.com) | Ok!
+[______________________](mailto:email@email.com) | Ok!
+[______________________](mailto:email@email.com) | Ok!
+[______________________](mailto:email@email.com) | Ok!
+[______________________](mailto:email@email.com) | ---
+
+Assuntos da reunião
+-------------------
+1. Definição do processo de desenvolvimento e ferramentas.
+
+Memória da reunião
+------------------
+* 
+* 
+* 
+* 
+* Definição de reuniões semanais. Todo sábado (presencial ou virtual)
+* Todo e qualquer artefato do projeto deve ser gerenciado no giHub.
+
+Conclusões finais
+-----------------
+* A próxima reunião está marcada para o dia **__/__/____, Domingo, às __:__**.
+* Processos que não possuem uma definição concluída nesta reunião deverão ser concluídos até a próxima:
+    * Processo de Gerência de Projeto - [_______________________](mailto:email@email.com)
+    * Processo de Versionamento - [_______________________](mailto:email@email.com)
+    * Processo de Banco de dados - [_______________________](mailto:email@email.com)
+    * Processo de Verificação e Validação - [_______________________](mailto:email@email.com)
+    * Processo de Gerência de Requisitos - [_______________________](mailto:email@email.com)
+    * Processo de Manutenção - [_______________________](mailto:email@email.com)
